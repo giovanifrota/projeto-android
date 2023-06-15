@@ -124,6 +124,9 @@ div.video > iframe{
     height:90%;
 }
 main > img{
+    margin:auto;
+    max-width: 1000px;
+    min-width: 300px;
     width:100%;
 }
 main h1{
